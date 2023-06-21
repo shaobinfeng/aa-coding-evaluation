@@ -6,6 +6,9 @@ import java.util.HashSet;
 import java.util.Optional;
 import java.util.Set;
 
+/**
+ * Composition primary key PK(title,employee, directReport)
+ */
 public class Position {
 
     private String title;
